@@ -38,4 +38,9 @@ We design interactions for a better user experience in our service and strive to
 - 네이버 브이 라이브(VLive) | 2015-2018<br>https://github.com/sunginhong/Profile/blob/main/Vlive.md
 
 
+
+### **Motion Design**
+🔧 After Effects, CSS, Lottie
+<br><br>
+
 - 네이버 지식iN 20주년 | 2022<br>https://github.com/sunginhong/Profile/blob/main/JisikiN20.md
