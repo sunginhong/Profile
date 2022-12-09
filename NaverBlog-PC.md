@@ -16,7 +16,7 @@ For easy blogging, lively interaction effects were applied from a single button 
 For easy blogging, lively interaction effects were applied from a single button to screen transitions and endings. In general, refreshing interaction effects were applied when mouse over and clicked to increase the clarity of action. In particular, the animation when I completed my last blog was the most important part of the design, and it was composed of pleasant animations so that users could feel the pride of completion.
 
 <br><br>
-### 1. 궁금증을 유발하는 인트로 화면 1. Intro screen that arouses curiosity
+### 1. 궁금증을 유발하는 인트로 화면 Intro screen that arouses curiosity
 
 > 사용자들이 블로그를 활용하는 방법은 개인 일상 블로그부터 마켓용 블로그, 리뷰 전문 블로그 등 여러가지의 방식으로 다양합니다. 블로그 쉽게 만들기의 인트로 화면은 이런 블로그의 다양한 모습을 표현하기 위해 총 6가지의 화면으로 제작되었고, 쉽게 만들기를 시작할 때마다 랜덤으로 보여지게 구성하였습니다. 방문할 때마다 달라지는 인트로 화면을 경험해 보세요.
 <br>
@@ -28,7 +28,7 @@ For easy blogging, lively interaction effects were applied from a single button 
 
 ![2](https://user-images.githubusercontent.com/21286823/196725969-7336759b-9a23-444e-9c44-b0749f21a3d2.gif)
 
-### 2. 내 블로그에 맞는 완성형 스킨 고르기 2. Choosing the perfect skin for your blog
+### 2. 내 블로그에 맞는 완성형 스킨 고르기 Choosing the perfect skin for your blog
 
 > 블로그 PC는 그동안 나만의 공간을 꾸밀 수 있는 다양한 기능을 제공해 왔습니다. 전체적인 스킨을 선택하고, 레이아웃을 원하는 대로 배치하며, 리모콘을 이용해 크게 11가지 영역의 세부 디자인도 수정할 수 있습니다. 이처럼 사용자에게 높은 자유도의 편집 기능을 제공하고 있지만, 신규 사용자나 꾸미기 기능을 자주 사용하지 않는 사용자들에게는 꾸미기가 어려운 과업으로 다가가기도 합니다. 
 <br>
@@ -48,7 +48,7 @@ For easy blogging, lively interaction effects were applied from a single button 
 
 ![3](https://user-images.githubusercontent.com/21286823/196725994-19711ba1-9e62-4ea9-bb8a-e5138b360f12.gif)
 
-### 3. 마우스 HOVER& CLICK 인터랙션 3.Mouse HOVER& CLICK Interaction
+### 3. 마우스 HOVER& CLICK 인터랙션 Mouse HOVER& CLICK Interaction
 ![4](https://user-images.githubusercontent.com/21286823/196726037-9011c74a-f213-4e44-a966-2e1367f94a19.gif)
 
 
