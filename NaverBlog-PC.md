@@ -32,12 +32,15 @@ For easy blogging, lively interaction effects were applied from a single button 
 
 > 블로그 PC는 그동안 나만의 공간을 꾸밀 수 있는 다양한 기능을 제공해 왔습니다. 전체적인 스킨을 선택하고, 레이아웃을 원하는 대로 배치하며, 리모콘을 이용해 크게 11가지 영역의 세부 디자인도 수정할 수 있습니다. 이처럼 사용자에게 높은 자유도의 편집 기능을 제공하고 있지만, 신규 사용자나 꾸미기 기능을 자주 사용하지 않는 사용자들에게는 꾸미기가 어려운 과업으로 다가가기도 합니다. 
 <br>
+
 > Blog PCs have provided various functions to decorate your own space. You can select the overall skin, arrange the layout as you like, and use the remote control to modify detailed designs in 11 major areas. Although it provides users with a high degree of freedom in editing, decorating can be a difficult task for new users or users who do not use the decorating function often.
 <br>
 <br>
+
 > 블로그 설계에서는 이런 사용자들을 위해 추가 편집이 필요없는 다양한 완성형 스킨을 제작하였고, 어렵게 느껴지지 않는 형용사형 테마 분류(ex. 심플한, 사랑스러운, 개성있는 등)를 이용해 둘러보는 재미와 원하는 스킨 탐색 과업에 도움을 주고자 했습니다. 사용자는 [미리보기]를 눌러 실제 사이즈로 적용된 내 블로그의 모습을 보고 스킨을 결정할 수 있습니다. 
 
 <br>
+
 > In the design of the blog, various finished skins that do not require additional editing were created for these users, and the task of searching for the desired skin and the fun of browsing using adjective-type themes classification (ex. simple, lovely, unique, etc.) that do not feel difficult wanted to help. Users can click [Preview] to see the actual size of my blog and decide on the skin.
 
 <br>
