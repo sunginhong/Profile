@@ -33,6 +33,6 @@ We design interactions for a better user experience in our service and strive to
 🔧 Javascript& jQuery, CSS, FramerJS, Java
 <br><br>
 
-- 네이버 블로그 모먼트 (NAVER BLOG MOMENT) | 2019~2021<br>https://github.com/sunginhong/InteractionWorks/blob/main/Moment.md
+- 네이버 블로그 모먼트 (NAVER BLOG MOMENT) | 2019~2021<br>https://github.com/sunginhong/Profile/blob/main/Moment.md
 
 
