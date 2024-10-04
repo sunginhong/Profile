@@ -1,20 +1,14 @@
-# 지식iN 20주년 jisikiN 20th anniversary
+# jisikiN 20th anniversary
 > Year: 2022<br>
 Role: Interaction Designer<br>
 Tool: JavaScript/Css, AfterEffects<br>
 <br>
 
-<br><br>
 ### scope of work
 - slogan motion
 - Logo Motion
 - Special logo
 
-<br><br>
-### 업무 범위
-- 슬로건 모션
-- 로고 모션
-- 스페셜 로고
 <br><br>
 
 ## slogan motion
