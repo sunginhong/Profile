@@ -76,7 +76,7 @@ We put a lot of thought into not only improving the form but also how to better 
 - In addition to various other tests, the final result was a loop-type motion where the space opens from a cube. This was chosen to be utilized in various places such as splash screens and loading animations.
 <br>
 - 그 외에 다양한 테스트도 있었지만, 최종적으로는 스플래시나 로딩 등 다양한 곳에서 활용하기 위해서 큐브에서 공간이 열리는 루프 타입의 모션으로 최종 결과가 나왔습니다.
-<br>
+
 ![0204](https://user-images.githubusercontent.com/21286823/198973609-2e06e448-9c91-4175-a83d-f576ed0c4881.gif)
 
 <br><br>
