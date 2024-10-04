@@ -16,7 +16,9 @@ Tool: JavaScript/Css<br>
 ## UI Composition
 The UI is composed of the top, middle, and bottom sections, and it is designed to interact organically with the mouse.<br>
 UI는 상단, 중단, 하단으로 구성되어 있으며 , 마우스에 유기적으로 반응하는 인터랙션을 목표로 구현
-<br>
+<br><br>
+![layout](https://github.com/user-attachments/assets/184399d7-b4ca-49fc-842d-9eb366a9b3a1)
+
 
 <br><br>
 ## Interaction List
