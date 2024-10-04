@@ -3,7 +3,7 @@
 > YEAR: 2018<br>
 ROLE: Interaction Designer<br>
 TOOL: FRAMER, AFTEREFFECTS<br>
-
+<br>
 We applied dynamic interaction effects from the click of a single button to screen transitions and the ending to make blog creation easy. Overall, we implemented refreshing interaction effects on mouse-over and click actions to enhance clarity in user interactions. The animation when completing the blog, in particular, was a key focus during the design process. We designed it to be a pleasant and satisfying animation, allowing users to feel a sense of accomplishment when their blog is finished.
 <br><br>
 블로그 쉽게 만들기는 버튼 하나부터 화면 전환, 엔딩까지 생동감있는 인터랙션 효과를 적용하였는데, 전체적으로 마우스 오버와 클릭했을 때 산뜻한 인터랙션 효과를 적용하여 액션에 대한 명확성을 높였습니다.  특히 마지막 내 블로그를 완성했을 때의 애니메이션은 설계에서 가장 중요하게 생각한 부분으로, 기분 좋은 애니메이션으로 구성하여 사용자가 완성의 뿌듯함을 느낄 수 있도록 하였습니다.
