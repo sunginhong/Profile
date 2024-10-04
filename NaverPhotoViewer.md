@@ -64,6 +64,11 @@ When the mouse hovers over the thumbnail area, the size and position of that are
 
 #### Case3.The left and right buttons move horizontally when the mouse hovers over them, reduce in scale when the mouse is pressed down, and return to their original scale when clicked (mouse released)
 좌우 버튼은 마우스 오버시 좌우로 포지션 이동, 마우스 다운시 스케일 축소 클릭시(마우스 놓았을때) 스케일 원래대로 돌아감
+<br>
+
+![svg](https://github.com/user-attachments/assets/9b709256-03ba-427e-ac07-240aed2263d2)
+I applied the source code directly to the development using SVG CSS animation<br>
+svg css 애니메이션 으로 제작 소스코드 그대로 개발에 적용
 <br><br>
 
 ### 3.Image controller tooltip<br>
