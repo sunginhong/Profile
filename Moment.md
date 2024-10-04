@@ -1,7 +1,7 @@
 # MOMENT
 
 > Year: 2019 - 2020<br>
-Role: Interaction Designer<br>
+Role: Interaction Design<br>
 Tool: Framer, JavaScript/Css, AfterEffects<br>
 <br>
 
