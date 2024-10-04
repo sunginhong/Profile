@@ -17,7 +17,7 @@ we subtly applied interactions that enhance usability by considering the continu
 <br><br>
 블로그의 [블로그 쉽게 만들기] 서비스에 연속된 사용자의 흐름을 고려한 사용성을 높이는 인터랙션을 소소하게 적용하였으며 웹 기반의 인터랙션 인 만큼 모든 애니메이션은 CSS 애니메이션으로 구현되었습니다.
 <br><br>
-### 1. 궁금증을 유발하는 인트로 화면 Intro screen that arouses curiosity
+### 1. Intro screen that arouses curiosity 궁금증을 유발하는 인트로 화면 
 > Users utilize blogs in various ways, from personal daily blogs to market-oriented blogs and review-focused blogs. To represent these diverse forms of blogging, the intro screen of the [Easy Blog Creation] service was designed with six different variations. Each time a user starts the 'Easy Blog Creation' process, one of these screens is displayed at random. Experience a new intro screen every time you visit!
 <br>
 > 사용자들이 블로그를 활용하는 방법은 개인 일상 블로그부터 마켓용 블로그, 리뷰 전문 블로그 등 여러가지의 방식으로 다양합니다. 블로그 쉽게 만들기의 인트로 화면은 이런 블로그의 다양한 모습을 표현하기 위해 총 6가지의 화면으로 제작되었고, 쉽게 만들기를 시작할 때마다 랜덤으로 보여지게 구성하였습니다. 방문할 때마다 달라지는 인트로 화면을 경험해 보세요.
@@ -28,7 +28,7 @@ we subtly applied interactions that enhance usability by considering the continu
 
 ![2](https://user-images.githubusercontent.com/21286823/196725969-7336759b-9a23-444e-9c44-b0749f21a3d2.gif)
 
-### 2. 내 블로그에 맞는 완성형 스킨 고르기 Choosing the perfect skin for your blog
+### 2.Choosing the perfect skin for your blog  내 블로그에 맞는 완성형 스킨 고르기 
 
 > Blog PC has long provided various features for users to personalize their space. Users can select an overall skin, arrange the layout as they wish, and even modify the detailed design of 11 specific areas using the remote control. While these features offer a high level of editing freedom, for new users or those who don't frequently use customization options, decorating their blog can feel like a challenging task.
 <br>
