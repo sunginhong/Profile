@@ -1,4 +1,4 @@
-# 모먼트 MOMENT
+# MOMENT
 
 > Year: 2019 - 2020<br>
 Role: Interaction Designer<br>
