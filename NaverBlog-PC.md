@@ -1,7 +1,7 @@
 # NAVER BLOG TUTORIAL
 
 > Year: 2018<br>
-Role: Interaction Designer<br>
+Role: Interaction Design<br>
 Tool: JavaScript/Css<br>
 <br>
 We applied dynamic interaction effects from the click of a single button to screen transitions and the ending to make blog creation easy. Overall, we implemented refreshing interaction effects on mouse-over and click actions to enhance clarity in user interactions. The animation when completing the blog, in particular, was a key focus during the design process. We designed it to be a pleasant and satisfying animation, allowing users to feel a sense of accomplishment when their blog is finished.
