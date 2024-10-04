@@ -1,6 +1,9 @@
 # NAVER V LIVE
 
-2015 -2018
+> Year: 2015 - 2018<br>
+Role: Interaction Designer<br>
+Tool: Framer, JavaScript/Css, AfterEffects<br>
+<br>
 
 VLIVE is a service I have been involved with since its initial launch. In November 2017, to provide an experience befitting the growing V app, we revamped VLIVE's interactions focusing on three key aspects: Usability, Fun Element, and Branding.
 
