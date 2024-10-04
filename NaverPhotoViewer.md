@@ -32,7 +32,14 @@ UI는 상단, 중단, 하단으로 구성되어 있으며 , 마우스에 유기�
 ### 1.Open and close image list (arrow, list in/out)<br>
 Interaction where the list opens and closes on mouse hover and click<br>
 HOVER, CLICK시 목록이 열리고 닫히는 인터랙션
+
+#### Case1. Image Count Area
+Animates 2px up or down on mouse hover and triggers a rotation animation on click.
+<br>
+#### Case2. Image List Area
+Triggers a vertical position animation (up and down) when selected.
 <br><br>
+
 ### 2.Image transition (top image transition, bottom thumbnail selection/hover/move, left and right arrows)<br>
 When the mouse hovers over the thumbnail area, the size and position of that area change, and the scrollbar fades in/out. When the thumbnail area is clicked, the image corresponding to that item is displayed in the viewer area
 <br>
@@ -40,12 +47,21 @@ When the mouse hovers over the thumbnail area, the size and position of that are
 썸네일 영역 클릭시 해당 아이템에 해당되는 이미지는 뷰어 영역에 표시되는 인터랙션
 <br>
 <br>
-Mouse Hover
+### Mouse Hover/Selected
  
-- Case1.
-- Case2.
-- Case3.
+#### Case1. When the mouse hovers over the thumbnail area, the size of the hovered item increases, and the adjacent items move to the left and right.
+
+썸네일 영역 마우스 오버시 해당 아이템의 크기는 커지며 좌우 아이템들은 좌우로 위치 이동 
+<br>
+
+#### Case2. The scrollbar fades in when the mouse hovers over the thumbnail area and fades out when the mouse leaves
+스크롤 바는 썸네일 영역에 마우스가 오버되면 페이드 인, 아웃되면 페이드 아웃 애니메이션 실행
+<br>
+
+#### Case3.The left and right buttons move horizontally when the mouse hovers over them, reduce in scale when the mouse is pressed down, and return to their original scale when clicked (mouse released)
+좌우 버튼은 마우스 오버시 좌우로 포지션 이동, 마우스 다운시 스케일 축소 클릭시(마우스 놓았을때) 스케일 원래대로 돌아감
 <br><br>
+
 ### 3.Image controller tooltip<br>
 The tooltip icon triggers an animation based on mouse events
 <br>
