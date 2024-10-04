@@ -14,7 +14,7 @@ Moment interaction serves as a seamless connector that naturally combines videos
 모먼트 인터랙션은 스타일마다 차별화된 애니메이션 이펙트와 스타일에 맞는 화면 전환을 통해 사용자의 영상을 보다 개성 있고
 돋보이게 만들며 여러 인덱스의 영상들을 자연스럽게 하나로 만들어 주는 이음새 역할을 합니다.
 <br><br>
-### 업무 범위 scope of work
+### Scope of work
 - Service overall interaction
   서비스 전반적인 인터랙션 
 - Preset style animations
