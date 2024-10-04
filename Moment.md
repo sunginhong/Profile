@@ -26,7 +26,7 @@ Moment interaction serves as a seamless connector that naturally combines videos
 
 
 <br><br>
-## interaction
+## Interaction
 
 We put significant effort and thought into the overall details of the service, such as style-specific animations, while maintaining a cohesive interaction experience. Our goal was to provide users with a great experience.
 <br>
