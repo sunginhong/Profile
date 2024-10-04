@@ -4,14 +4,14 @@ Role: Interaction Designer<br>
 Tool: JavaScript/Css, AfterEffects<br>
 <br>
 
-### scope of work
+### Scope of work
 - slogan motion
 - Logo Motion
 - Special logo
 
 <br><br>
 
-## slogan motion
+## Slogan motion
 
 <br>
 
