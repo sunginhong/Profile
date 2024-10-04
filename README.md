@@ -11,7 +11,7 @@ Interaction Designer
 - Interaction Designer - 2015. 02 ~ present
 
 > INNOIZ Interactive, Korea.Rep
-- Motion Graphic Designer - 2011 .01 ~ 2015 .01
+- Interaction Designer - 2011 .01 ~ 2015 .01
 <br>
 
 **Education**
