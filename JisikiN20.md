@@ -1,4 +1,4 @@
-# jisikiN 20th anniversary
+# JisikiN 20th Anniversary
 > Year: 2022<br>
 Role: Interaction Designer<br>
 Tool: JavaScript/Css, AfterEffects<br>
