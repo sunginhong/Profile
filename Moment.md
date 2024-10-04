@@ -1,5 +1,9 @@
 # 모먼트 MOMENT
-2019 - 2020
+
+> YEAR: 2019 - 2020<br>
+ROLE: Interaction Designer<br>
+TOOL: Framer, JavaScript, AfterEffects<br>
+<br>
 
 Short-form Video Editor for Blogs
 
