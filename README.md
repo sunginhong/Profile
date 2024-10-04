@@ -12,10 +12,11 @@ Interaction Designer
 
 > INNOIZ Interactive, Korea.Rep
 - Motion Graphic Designer - 2011 .01 ~ 2015 .01
-<br><br>
+<br>
 
 **Education**
-SangMyung Univercity, Korea.Rep — B.A
+> SangMyung Univercity, Korea.Rep — B.A
+<br>
 
 **Contacts**
 - 010-8995-7513
