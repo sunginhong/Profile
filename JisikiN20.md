@@ -1,5 +1,8 @@
 # 지식iN 20주년 jisikiN 20th anniversary
-2022
+> Year: 2022<br>
+Role: Interaction Designer<br>
+Tool: JavaScript/Css, AfterEffects<br>
+<br>
 
 <br><br>
 ### scope of work
