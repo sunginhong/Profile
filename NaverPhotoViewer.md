@@ -34,10 +34,12 @@ Interaction where the list opens and closes on mouse hover and click<br>
 HOVER, CLICK시 목록이 열리고 닫히는 인터랙션
 
 #### Case1. Image Count Area
-Animates 2px up or down on mouse hover and triggers a rotation animation on click.
+Animates 2px up or down on mouse hover and triggers a rotation animation on click.<br>
+마우스 오버시 2px 위로 또는 아래로 애니메이션되고 클릭시 회전 애니메이션 실행
 <br>
 #### Case2. Image List Area
-Triggers a vertical position animation (up and down) when selected.
+Triggers a vertical position animation (up and down) when selected.<br>
+선택시 위, 아래로 포지션 애니메이션 실행
 <br><br>
 
 ### 2.Image transition (top image transition, bottom thumbnail selection/hover/move, left and right arrows)<br>
