@@ -2,7 +2,7 @@
 
 > Year: 2019 - 2020<br>
 Role: Interaction Designer<br>
-Tool: Framer, JavaScript, AfterEffects<br>
+Tool: Framer, JavaScript/Css, AfterEffects<br>
 <br>
 
 Short-form Video Editor for Blogs
