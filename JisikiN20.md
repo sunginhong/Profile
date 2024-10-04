@@ -1,6 +1,6 @@
 # JisikiN 20th Anniversary
 > Year: 2022<br>
-Role: Interaction Designer<br>
+Role: Interaction Design<br>
 Tool: JavaScript/Css, AfterEffects<br>
 <br>
 
