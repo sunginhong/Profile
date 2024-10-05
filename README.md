@@ -33,7 +33,7 @@ We have defined the UX philosophy and set the UX guidelines based on trend analy
 
 # Private Works
 
-## Animate Timeline ##<br>
+## Animate Timeline<br>
 Figma plugin
 
 <br>
