@@ -27,6 +27,7 @@ In Korea, May 5th is designated as Children's Day, a time for families to enjoy 
 <br>
 
 ### Frost's Descent​​
+
 I wanted to express the cute appearance of the squirrel through animation.
 <br>
 
@@ -47,7 +48,7 @@ To promote this, we worked on a special logo to capture a story in one object (w
 
 <br>
 
-
+![mobile_180327608605](https://github.com/user-attachments/assets/6bf6891a-1535-43a1-ab86-158f55085e82)
 
 <br>
 
