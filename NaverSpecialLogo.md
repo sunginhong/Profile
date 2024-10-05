@@ -4,6 +4,11 @@
 Role: Motion Design<br>
 Tool: Adobe After Effects<br>
 <br>
+Naver's special logo is a service that informs users about anniversaries, similar to Google's Doodles.<br>
+In this project, I am bringing the author's images to life. By adding dynamic movements to static images, I convey stories to users that the images alone cannot tell.
+<br>
+
+<br>
 
 ### Chuseok (Korean Thanksgiving Day)
 
