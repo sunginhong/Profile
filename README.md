@@ -6,8 +6,9 @@
 
 > We design interactions for a better user experience in our service and strive to make prototypes lead to final results.
 
+<br>
 
-**Skils🔧**<br><br>
+**Skils🔧**
 > Javascript/jQuery/CSS/Html, Framer(React), Java(Android.Dev), Adobe Tools(AfterEffects..), Figma
 
 
