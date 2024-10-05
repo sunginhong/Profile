@@ -2,7 +2,14 @@
 
 
 # Sungin Hong
-Interaction Designer
+**Interaction Designer**
+
+> We design interactions for a better user experience in our service and strive to make prototypes lead to final results.
+<br><br>
+
+**Skils🔧**<br><br>
+Javascript/jQuery/CSS/Html, Framer(React), Java(Android.Dev), Adobe Tools(AfterEffects..), Figma
+<br><br>
 
 <br>
 
@@ -55,13 +62,6 @@ ___________
 
 <br>
 
-### **Interaction Design (UX Prototyping)**
-
-We design interactions for a better user experience in our service and strive to make prototypes lead to final results.
-<br><br>
-**Skils🔧**<br><br>
-Javascript/jQuery/CSS/Html, Framer(React), Java(Android.Dev), Adobe Tools(AfterEffects..), Figma
-<br><br>
 **Projects**
 - NAVER BLOG MOMENT | 2019~2021<br>https://github.com/sunginhong/Profile/blob/main/Moment.md
 - Easily create a Naver PC blog | 2018<br>https://github.com/sunginhong/Profile/blob/main/NaverBlog-PC.md
