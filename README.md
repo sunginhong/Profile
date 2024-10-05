@@ -34,7 +34,9 @@ We have defined the UX philosophy and set the UX guidelines based on trend analy
 # Private Works
 
 ## Animate Timeline<br>
-Figma plugin
+product https://www.figma.com/community/plugin/1390574471920151745/animate-timeline
+
+"Animate Timeline" is a Figma plugin created as a personal project to reduce resource waste caused by repetitive patterns during document work. I was responsible for the product idea and development.
 
 <br>
 
