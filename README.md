@@ -25,6 +25,10 @@ Vlive is a live broadcast service for celebrities to communicate with their fans
 - Interaction Designer - 2011 .01 ~ 2015 .01
 <br>
 
+#### Samsung 2014 Annual UX consulting & Guideline<br>
+We have defined the UX philosophy and set the UX guidelines based on trend analysis for the leading mobile service of Samsugn Mobile.
+
+
 **Education**
 > SangMyung Univercity, Korea.Rep — B.A
 <br>
