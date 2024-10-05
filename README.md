@@ -35,9 +35,9 @@ SangMyung Univercity, Korea.Rep — B.A
 <br>
 
 **Contacts**
-Korea.Rep
-010-8995-7513
-realhsi85@gmail.com
+Korea.Rep<br>
+010-8995-7513<br>
+realhsi85@gmail.com<br>
 
 <br>
 
