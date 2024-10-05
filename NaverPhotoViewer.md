@@ -1,7 +1,7 @@
 # Naver PC PhotoViewer Interaction
 > Year: 2024<br>
 Role: Interaction Design<br>
-Tool: JavaScript/Css<br>
+Tool: Html/JavaScript/Jquery/Css<br>
 <br>
 
 ### Scope of work
