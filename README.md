@@ -5,17 +5,33 @@
 **Interaction Designer**
 
 > We design interactions for a better user experience in our service and strive to make prototypes lead to final results.
-<br><br>
+
 
 **Skils🔧**<br><br>
-Javascript/jQuery/CSS/Html, Framer(React), Java(Android.Dev), Adobe Tools(AfterEffects..), Figma
-<br><br>
+> Javascript/jQuery/CSS/Html, Framer(React), Java(Android.Dev), Adobe Tools(AfterEffects..), Figma
 
+
+
+<br>
+
+# Portfolio #
+### NAVER PhotoViewer<br> 
+> https://github.com/sunginhong/Profile/blob/main/NaverPhotoViewer.md
+### NAVER VLive<br>
+> https://github.com/sunginhong/Profile/blob/main/Vlive.md
+### NAVER BLOG MOMENT<br>
+> https://github.com/sunginhong/Profile/blob/main/Moment.md
+### NAVER Easily create a Naver PC blog<br>
+> https://github.com/sunginhong/Profile/blob/main/NaverBlog-PC.md
+### NAVER JisikiN 20th Anniversary<br>
+> https://github.com/sunginhong/Profile/blob/main/JisikiN20.md
+### NAVER Special Logo Projects<br>
+> https://github.com/sunginhong/Profile/blob/main/NaverSpecialLogo.md
 <br>
 
 # Work Experience #
 ## NAVER.Corp, Korea.Rep
-- Interaction Designer - 2015. 02 ~ present
+> Interaction Designer - 2015. 02 ~ present
 <br>
 
 #### NAVER APP Interaction<br>
@@ -29,7 +45,7 @@ Vlive is a live broadcast service for celebrities to communicate with their fans
 <br>
  
 ## INNOIZ Interactive, Korea.Rep
-- Interaction Designer - 2011 .01 ~ 2015 .01
+> Interaction Designer - 2011 .01 ~ 2015 .01
 <br>
 
 #### Samsung 2014 Annual UX consulting & Guideline<br>
@@ -58,12 +74,4 @@ https://www.figma.com/community/plugin/1390574471920151745/animate-timeline
 
 <br>
 
-___________
 
-<br>
-
-# Portfolio #
-## NAVER BLOG MOMENT <br>https://github.com/sunginhong/Profile/blob/main/Moment.md
-## Easily create a Naver PC blog <br>https://github.com/sunginhong/Profile/blob/main/NaverBlog-PC.md
-## NAVER VLive <br>https://github.com/sunginhong/Profile/blob/main/Vlive.md
-## NAVER JisikiN 20th Anniversary <br>https://github.com/sunginhong/Profile/blob/main/JisikiN20.md
