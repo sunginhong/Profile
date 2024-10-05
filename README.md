@@ -31,7 +31,7 @@ We have defined the UX philosophy and set the UX guidelines based on trend analy
 <br>
 
 # Education #
-### SangMyung Univercity, Korea.Rep — B.A ###
+**SangMyung Univercity, Korea.Rep — B.A**
 <br>
 
 # Contacts #
