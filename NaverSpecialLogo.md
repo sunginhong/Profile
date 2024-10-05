@@ -5,4 +5,32 @@ Role: Motion Design<br>
 Tool: Adobe After Effects<br>
 <br>
 
+### Chuseok (Korean Thanksgiving Day)
 
+<br>
+
+<br>
+
+### Children's day
+
+<br>
+
+<br>
+
+### Frost's Descent​​
+
+<br>
+
+<br>
+
+### Bok-day (The hottest day)
+
+<br>
+
+<br>
+
+### Bok-day (The hottest day)
+
+<br>
+
+<br>
