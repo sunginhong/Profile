@@ -40,10 +40,7 @@ Vlive is a live broadcast service for celebrities to communicate with their fans
    - User sees like reaction animations.
 
 <br>
-
-### Naver Special Logo<br>
-Naver Speacial Logo Projects is a like Google 
-     
+ 
 #### INNOIZ Interactive, Korea.Rep
 - Interaction Designer - 2011 .01 ~ 2015 .01
 <br>
