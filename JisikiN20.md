@@ -67,6 +67,7 @@ We put a lot of thought into not only improving the form but also how to better 
 
 - The motion was refined to emphasize the feeling of space, leading to more detailed work. To better express the concept of a space where various pieces of knowledge come together, we added auxiliary objects to the final icon's geometric elements to convey more fun and meaning..
 <br>
+
 - 모션은 공간의 느낌을 강조한 방향으로 정리되면서 더 디테일한 작업이 진행되었는데요,다양한 지식이 모인다라는 공간의 컨셉이 좀 더 표현되었으면 해서 최종 아이콘의 도형적인 요소에 조금 더 재미와 의미를 전달할 수 있는 보조 오브제가 추가되었습니다.
 
 ![02-X1_3](https://user-images.githubusercontent.com/21286823/198973556-fa5ec6a6-1aa4-47a4-87a8-743689c6dcb3.gif)
@@ -75,6 +76,7 @@ We put a lot of thought into not only improving the form but also how to better 
 
 - In addition to various other tests, the final result was a loop-type motion where the space opens from a cube. This was chosen to be utilized in various places such as splash screens and loading animations.
 <br>
+
 - 그 외에 다양한 테스트도 있었지만, 최종적으로는 스플래시나 로딩 등 다양한 곳에서 활용하기 위해서 큐브에서 공간이 열리는 루프 타입의 모션으로 최종 결과가 나왔습니다.
 
 ![0204](https://user-images.githubusercontent.com/21286823/198973609-2e06e448-9c91-4175-a83d-f576ed0c4881.gif)
@@ -82,9 +84,10 @@ We put a lot of thought into not only improving the form but also how to better 
 <br><br>
 ## Special Logo
 
-The created logo motion was also used for the special 20th-anniversary logo.
+- The created logo motion was also used for the special 20th-anniversary logo.
 <br>
-제작한 로고 모션은 20주년 기념일 스페셜로고에도 사용되었습니다.
+
+- 제작한 로고 모션은 20주년 기념일 스페셜로고에도 사용되었습니다.
 
 
 
