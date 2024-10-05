@@ -16,7 +16,7 @@ We applied dynamic interaction effects from the click of a single button to scre
 <br><br>
 we subtly applied interactions that enhance usability by considering the continuous flow of the user. Since the interactions are web-based, all animations were implemented using CSS animations.
 
-<br><br>
+<br>
 
 블로그의 [블로그 쉽게 만들기] 서비스에 연속된 사용자의 흐름을 고려한 사용성을 높이는 인터랙션을 소소하게 적용하였으며 웹 기반의 인터랙션 인 만큼 모든 애니메이션은 CSS 애니메이션으로 구현되었습니다.
 
