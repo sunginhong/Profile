@@ -30,6 +30,14 @@ We have defined the UX philosophy and set the UX guidelines based on trend analy
 
 <br>
 
+
+# Private Works
+
+## Animate Timeline ##<br>
+Figma plugin
+
+<br>
+
 # Education #
 **SangMyung Univercity, Korea.Rep — B.A**
 <br>
