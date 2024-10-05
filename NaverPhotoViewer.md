@@ -78,11 +78,17 @@ The tooltip icon triggers an animation based on mouse events
 <br>
 - Mouse Hover
 - Mouse Active
+<br>
+I applied the source code directly to the development using SVG CSS animation<br>
+svg css 애니메이션 으로 제작 소스코드 그대로 개발에 적용
 <br><br>
 ### 4.Image size adjustment<br>
 Applied animation properties during scale adjustment to enhance detailed interactions
 <br>
 스케일 조정시 애니메이션 속성 적용해 디테일을 높힌 인터랙션
+<br>
+I applied the source code directly to the development using SVG CSS animation<br>
+svg css 애니메이션 으로 제작 소스코드 그대로 개발에 적용
 <br><br>
 ### 5.Share popup in/out<br>
 When the menu icon is hovered over or selected
