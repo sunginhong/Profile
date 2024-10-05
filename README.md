@@ -6,7 +6,7 @@ Interaction Designer
 
 <br>
 
-**Work Experience**
+# Work Experience #
 ## NAVER.Corp, Korea.Rep
 - Interaction Designer - 2015. 02 ~ present
 <br>
@@ -30,14 +30,14 @@ We have defined the UX philosophy and set the UX guidelines based on trend analy
 
 <br>
 
-**Education**
-SangMyung Univercity, Korea.Rep — B.A
+# Education #
+### SangMyung Univercity, Korea.Rep — B.A ###
 <br>
 
-**Contacts**
-Korea.Rep <br>
-82+10-8995-7513 <br>
-realhsi85@gmail.com <br>
+# Contacts #
+### Korea.Rep<br>
+### 82+10-8995-7513<br>
+### realhsi85@gmail.com<br>
 
 <br>
 
