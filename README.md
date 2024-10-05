@@ -7,10 +7,44 @@ Interaction Designer
 <br>
 
 **Work Experience**
-> NAVER.Corp, Korea.Rep
+## NAVER.Corp, Korea.Rep
 - Interaction Designer - 2015. 02 ~ present
+<br>
 
-> INNOIZ Interactive, Korea.Rep
+#### NAVER APP Interaction<br>
+Naver App Main Home Interaction and Place Detail Page User Scenario
+
+1. Naver App Main Home Screen
+   - User launches the app and views the main home screen.
+   - User clicks on a specific place.
+
+2. Place Detail Page
+   - User views detailed information about the place.
+   - User writes a review or uploads a photo.
+   - User adds the place to their favorites.
+
+<br>
+
+#### VLIVE Interaction Design<br>
+Vlive is a live broadcast service for celebrities to communicate with their fans. Interactions were created throughout the service, including splash, loading, and like reaction animations.
+
+1. Splash Screen
+   - User opens the app and sees the splash screen.
+
+2. Loading Screen
+   - User waits while the app loads.
+
+3. Live Broadcast
+   - User watches a live broadcast by a celebrity.
+   - User interacts by sending likes.
+   - User sees like reaction animations.
+
+<br>
+
+### Naver Special Logo<br>
+Naver Speacial Logo Projects is a like Google 
+     
+#### INNOIZ Interactive, Korea.Rep
 - Interaction Designer - 2011 .01 ~ 2015 .01
 <br>
 
