@@ -31,12 +31,13 @@ We have defined the UX philosophy and set the UX guidelines based on trend analy
 <br>
 
 **Education**
-> SangMyung Univercity, Korea.Rep — B.A
+SangMyung Univercity, Korea.Rep — B.A
 <br>
 
 **Contacts**
-- 010-8995-7513
-- realhsi85@gmail.com
+Korea.Rep
+010-8995-7513
+realhsi85@gmail.com
 
 <br>
 
