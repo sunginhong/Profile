@@ -39,10 +39,14 @@ HOVER, CLICK시 목록이 열리고 닫히는 인터랙션
 Animates 2px up or down on mouse hover and triggers a rotation animation on click.<br>
 마우스 오버시 2px 위로 또는 아래로 애니메이션되고 클릭시 회전 애니메이션 실행
 <br>
+![c1-0](https://github.com/user-attachments/assets/a132db91-da16-45f0-82e4-f1348e46438d)
+<br>
 #### Case2. Image List Area
 Triggers a vertical position animation (up and down) when selected.<br>
 선택시 위, 아래로 포지션 애니메이션 실행
-<br><br>
+<br>
+![c1-1](https://github.com/user-attachments/assets/a74b9776-eede-4d5b-8697-3830d6761b7f)
+<br>
 
 ### 2.Image transition (top image transition, bottom thumbnail selection/hover/move, left and right arrows)<br>
 When the mouse hovers over the thumbnail area, the size and position of that area change, and the scrollbar fades in/out. When the thumbnail area is clicked, the image corresponding to that item is displayed in the viewer area
@@ -57,15 +61,23 @@ When the mouse hovers over the thumbnail area, the size and position of that are
 
 썸네일 영역 마우스 오버시 해당 아이템의 크기는 커지며 좌우 아이템들은 좌우로 위치 이동 
 <br>
+![c2-0](https://github.com/user-attachments/assets/fcc8bcb2-d263-414c-8ffd-01c33265cc41)
+<br>
+<br>
 
 #### Case2. The scrollbar fades in when the mouse hovers over the thumbnail area and fades out when the mouse leaves
 스크롤 바는 썸네일 영역에 마우스가 오버되면 페이드 인, 아웃되면 페이드 아웃 애니메이션 실행
+<br>
+![c2-1](https://github.com/user-attachments/assets/6e4cfc0d-b8cc-4336-b358-ffd9b328ca1c)
+<br>
 <br>
 
 #### Case3.The left and right buttons move horizontally when the mouse hovers over them, reduce in scale when the mouse is pressed down, and return to their original scale when clicked (mouse released)
 좌우 버튼은 마우스 오버시 좌우로 포지션 이동, 마우스 다운시 스케일 축소 클릭시(마우스 놓았을때) 스케일 원래대로 돌아감
 <br>
-
+![c2-2](https://github.com/user-attachments/assets/0ebee56c-c7b4-43eb-b8f1-002d48f337ca)
+<br>
+<br>
 ![svg](https://github.com/user-attachments/assets/9b709256-03ba-427e-ac07-240aed2263d2)
 I applied the source code directly to the development using SVG CSS animation<br>
 svg css 애니메이션 으로 제작 소스코드 그대로 개발에 적용
@@ -82,6 +94,12 @@ The tooltip icon triggers an animation based on mouse events
 I applied the source code directly to the development using SVG CSS animation<br>
 svg css 애니메이션 으로 제작 소스코드 그대로 개발에 적용
 <br><br>
+
+![c3](https://github.com/user-attachments/assets/63c1963c-dfb4-4e54-8213-87a6556fa0cf)
+
+<br>
+<br><br>
+
 ### 4.Image size adjustment<br>
 Applied animation properties during scale adjustment to enhance detailed interactions
 <br>
@@ -90,8 +108,18 @@ Applied animation properties during scale adjustment to enhance detailed interac
 I applied the source code directly to the development using SVG CSS animation<br>
 svg css 애니메이션 으로 제작 소스코드 그대로 개발에 적용
 <br><br>
+
+
+
+<br>
+<br><br>
 ### 5.Share popup in/out<br>
 When the menu icon is hovered over or selected
 <br>
 메뉴 아이콘 마우스 오버/ 선택 시
+<br><br>
+
+![c5](https://github.com/user-attachments/assets/12e69a60-732d-47b4-ae87-b7033e902edc)
+
+<br>
 <br><br>
