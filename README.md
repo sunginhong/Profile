@@ -36,6 +36,7 @@
 <br>
 
 #### NAVER APP Interaction<br>
+
 Naver App Main Home Interaction and Place Detail Page User Scenario.
 
 <br>
@@ -62,11 +63,22 @@ https://www.figma.com/community/plugin/1390574471920151745/animate-timeline
 
 "Animate Timeline" is a Figma plugin created as a personal project to reduce resource waste caused by repetitive patterns during document work. I was responsible for the product idea and development.
 
+## Android Studio Prototype<br>
+Personally, I am also creating an Android prototype using Java.
+I have implemented a few ideas
+
+**1. We created a prototype to implement events that react according to the intensity of user gestures.**
+![sample (1)](https://github.com/user-attachments/assets/8554ac77-6eb8-445a-9496-219e84201695)
+<br><br>
+**2. Created because I wanted to implement a path that responds to user gestures.**
+![sample](https://github.com/user-attachments/assets/e7a54188-3463-42b4-8145-d7fe94686a33)
+
 <br>
 
 # Education #
 **SangMyung Univercity, Korea.Rep — B.A**
-<br>
+
+<br><br>
 
 # Contacts #
 **Korea.Rep**<br>
