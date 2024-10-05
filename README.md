@@ -21,7 +21,7 @@ Vlive is a live broadcast service for celebrities to communicate with their fans
 
 <br>
  
-#### INNOIZ Interactive, Korea.Rep
+## INNOIZ Interactive, Korea.Rep
 - Interaction Designer - 2011 .01 ~ 2015 .01
 <br>
 
