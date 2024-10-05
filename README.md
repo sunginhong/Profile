@@ -35,9 +35,9 @@ We have defined the UX philosophy and set the UX guidelines based on trend analy
 <br>
 
 # Contacts #
-### Korea.Rep<br>
-### 82+10-8995-7513<br>
-### realhsi85@gmail.com<br>
+**Korea.Rep**<br>
+**82+10-8995-7513**<br>
+**realhsi85@gmail.com** <br>
 
 <br>
 
