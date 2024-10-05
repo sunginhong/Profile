@@ -1,6 +1,3 @@
-
-
-
 # Sungin Hong
 **Interaction Designer**
 
