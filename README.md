@@ -60,6 +60,9 @@ https://www.figma.com/community/plugin/1390574471920151745/animate-timeline
 
 "Animate Timeline" is a Figma plugin created as a personal project to reduce resource waste caused by repetitive patterns during document work. I was responsible for the product idea and development.
 
+![78499e4aeb510e2d2f8b798892babb0d5600c348 (1)](https://github.com/user-attachments/assets/d631e127-d963-4e97-aa6d-59369a4d7377)
+
+
 ## Android Studio Prototype<br>
 Personally, I am also creating an Android prototype using Java.
 I have implemented a few ideas
